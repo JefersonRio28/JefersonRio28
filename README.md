@@ -1,6 +1,4 @@
-<h1 align="center"> Hi there 👋 </h>
-
-Here are some ideas to get you started:
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jeferson Rio</h1>
 
 - 🔭 I’m currently working on a study wave to learn quickly how to code and develop things
 - 📚 I'm currently learning: HTML, CSS and JavaScript
