@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 <\h>
 
 Here are some ideas to get you started:
 
